@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <extension key="cm.mukwetest.firstextension" type="module">
   <file>firstextension</file>
-  <name>FIXME</name>
-  <description>FIXME</description>
+  <name>CiviCRM_GSOC_2016</name>
+  <description>A Warm up towards GSOC extension</description>
   <license>AGPL-3.0</license>
   <maintainer>
-    <author>FIXME</author>
-    <email>FIXME</email>
+    <author>Theophilus WABA </author>
+    <email>w4b4n4sjr@gmail.com</email>
   </maintainer>
   <urls>
     <url desc="Main Extension Page">http://FIXME</url>
