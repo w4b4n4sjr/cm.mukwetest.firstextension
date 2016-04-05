@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/meetings</path>
+    <page_callback>CRM_Firstextension_Page_Meetings</page_callback>
+    <title>Meetings</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
