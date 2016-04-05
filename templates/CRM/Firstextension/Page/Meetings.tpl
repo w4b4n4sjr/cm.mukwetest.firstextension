@@ -4,4 +4,7 @@
 <p>The current time is {$currentTime}</p>
 
 {* Example: Display a translated string -- which happens to include a variable *}
-<p>{ts 1=$currentTime}(In your native language) The current time is %1.{/ts}</p>
+<p>{ts 1=$currentTime}The current time in my local community now is %1.{/ts}</p>
+{* This is the email of the desired contact*}
+<p>The total number of registered contacts is: {$contactGotten}</p>
+ {$contacts|@var_dump}
