@@ -7,7 +7,11 @@
 <p>{ts 1=$currentTime}The current time in my local community now is %1.{/ts}</p>
 {* This is the email of the desired contact*}
 <p>The total number of registered contacts is: {$contactGotten}</p>
+<<<<<<< HEAD
  {*Dump the contact selected from the database*}
  {$contacts|@var_dump}
  
  
+=======
+ {$contacts|@var_dump}
+>>>>>>> b4e4b18d004895975fc143d39a1ee8b3b6629850
